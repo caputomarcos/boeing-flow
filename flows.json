@@ -964,23 +964,6 @@
         "wires": []
     },
     {
-        "id": "60072b0e2935bcfb",
-        "type": "debug",
-        "z": "d3680ac94891eaf1",
-        "name": "FALSE",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 1010,
-        "y": 500,
-        "wires": []
-    },
-    {
         "id": "713412a6f2e35d79",
         "type": "modbus-write",
         "z": "d3680ac94891eaf1",
