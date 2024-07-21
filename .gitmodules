@@ -1,3 +1,9 @@
 [submodule "webapp"]
 	path = webapp
 	url = git@github.com:caputomarcos/boeing-webapp.git
+[submodule "cross-platform"]
+	path = cross-platform
+	url = git@github.com:caputomarcos/boeing-cross-platform.git
+[submodule "web-app"]
+	path = web-app
+	url = git@github.com:caputomarcos/boeing-webapp.git
