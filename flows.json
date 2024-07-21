@@ -27,7 +27,7 @@
             "2cb62bf5f7dea131"
         ],
         "x": 53,
-        "y": 499,
+        "y": 459,
         "w": 593,
         "h": 276
     },
@@ -62,7 +62,7 @@
             "216812d2c096025f"
         ],
         "x": 34,
-        "y": 219,
+        "y": 179,
         "w": 1652,
         "h": 262
     },
@@ -94,7 +94,7 @@
         "upload": false,
         "swaggerDoc": "",
         "x": 110,
-        "y": 140,
+        "y": 100,
         "wires": [
             [
                 "91c40bd3fa38a373"
@@ -114,7 +114,7 @@
         "finalize": "",
         "libs": [],
         "x": 300,
-        "y": 140,
+        "y": 100,
         "wires": [
             [
                 "a437d9ab9db0cba5",
@@ -130,7 +130,7 @@
         "statusCode": "",
         "headers": {},
         "x": 570,
-        "y": 140,
+        "y": 100,
         "wires": []
     },
     {
@@ -143,7 +143,7 @@
         "upload": false,
         "swaggerDoc": "",
         "x": 110,
-        "y": 180,
+        "y": 140,
         "wires": [
             [
                 "2871a0f822f5b466"
@@ -163,7 +163,7 @@
         "finalize": "",
         "libs": [],
         "x": 350,
-        "y": 180,
+        "y": 140,
         "wires": [
             [
                 "cdcccac8bc8756b8"
@@ -187,7 +187,7 @@
         "senderr": false,
         "headers": [],
         "x": 660,
-        "y": 180,
+        "y": 140,
         "wires": [
             [
                 "ed705aba109df612"
@@ -202,7 +202,7 @@
         "statusCode": "",
         "headers": {},
         "x": 890,
-        "y": 180,
+        "y": 140,
         "wires": []
     },
     {
@@ -213,7 +213,7 @@
         "server": "6d0c7de82f7adff3",
         "client": "",
         "x": 610,
-        "y": 80,
+        "y": 40,
         "wires": []
     },
     {
@@ -235,7 +235,7 @@
         "payload": "{\"topic\":\"main\",\"action\":{\"show\":1}}",
         "payloadType": "json",
         "x": 180,
-        "y": 540,
+        "y": 500,
         "wires": [
             [
                 "2cb62bf5f7dea131"
@@ -261,7 +261,7 @@
         "payload": "{\"topic\":\"main\",\"action\":{\"show\":0}}",
         "payloadType": "json",
         "x": 180,
-        "y": 580,
+        "y": 540,
         "wires": [
             [
                 "2cb62bf5f7dea131"
@@ -287,7 +287,7 @@
         "payload": "{\"topic\":\"modal\",\"action\":{\"show\":1}}",
         "payloadType": "json",
         "x": 170,
-        "y": 620,
+        "y": 580,
         "wires": [
             [
                 "2cb62bf5f7dea131"
@@ -313,7 +313,7 @@
         "payload": "{\"topic\":\"modal\",\"action\":{\"show\":0}}",
         "payloadType": "json",
         "x": 160,
-        "y": 660,
+        "y": 620,
         "wires": [
             [
                 "2cb62bf5f7dea131"
@@ -339,7 +339,7 @@
         "payload": "{\"topic\":\"acknowledgment\",\"action\":{\"show\":1}}",
         "payloadType": "json",
         "x": 199,
-        "y": 694,
+        "y": 654,
         "wires": [
             [
                 "2cb62bf5f7dea131"
@@ -365,7 +365,7 @@
         "payload": "{\"topic\":\"acknowledgment\",\"action\":{\"show\":0}}",
         "payloadType": "json",
         "x": 199,
-        "y": 734,
+        "y": 694,
         "wires": [
             [
                 "2cb62bf5f7dea131"
@@ -381,7 +381,7 @@
         "server": "6d0c7de82f7adff3",
         "client": "",
         "x": 530,
-        "y": 540,
+        "y": 500,
         "wires": []
     },
     {
@@ -402,7 +402,7 @@
         "senderr": false,
         "headers": [],
         "x": 880,
-        "y": 360,
+        "y": 320,
         "wires": [
             [
                 "bbc52227e30d307e",
@@ -426,7 +426,7 @@
         "finalize": "",
         "libs": [],
         "x": 450,
-        "y": 360,
+        "y": 320,
         "wires": [
             [
                 "7566f6994c2cfb40",
@@ -449,7 +449,7 @@
         "statusVal": "",
         "statusType": "auto",
         "x": 1250,
-        "y": 420,
+        "y": 380,
         "wires": []
     },
     {
@@ -461,7 +461,7 @@
         "statusCode": "",
         "headers": {},
         "x": 1190,
-        "y": 300,
+        "y": 260,
         "wires": []
     },
     {
@@ -478,7 +478,7 @@
         "finalize": "",
         "libs": [],
         "x": 1220,
-        "y": 360,
+        "y": 320,
         "wires": [
             [
                 "585f0d70aec0f8f7"
@@ -508,7 +508,7 @@
         "payload": "{\"hooks\":[{\"sn\":\"Voluptatem  \",\"cracks\":\"Y\",\"throat\":\"Y\",\"twisted\":\"Y\"},{\"sn\":\"Do est minus volupt\",\"cracks\":\"N\",\"throat\":\"Y\",\"twisted\":\"N\"},{\"sn\":\"Rerum animi \",\"hook_cracks\":\"N\",\"hook_throat\":\"Y\",\"hook_twisted\":\"Y\"},{\"sn\":\"Omnis proident dese\",\"hook_cracks\":\"Y\",\"hook_throat\":\"Y\",\"hook_twisted\":\"Y\"}],\"location\":\"Molestiae ab consect\",\"serial\":\"Dolor et deleniti ex\",\"model\":\"Proident voluptatem\",\"question1\":\"Y\",\"question2\":\"Y\",\"question2a\":\"N\",\"question2b\":\"Y\",\"question3\":\"N\",\"question5\":\"N/A\",\"question6\":\"Y\",\"question7\":\"N\",\"question7a\":\"N\",\"question7b\":\"Y\",\"question7c\":\"Y\",\"question8\":\"Y\",\"inspected_by\":\"Consectetur possimus\",\"date\":\"06/22/2024\",\"email\":\"caputo.marcos@gmail.com\"}",
         "payloadType": "json",
         "x": 180,
-        "y": 320,
+        "y": 280,
         "wires": [
             [
                 "05734ddb19778f37"
@@ -526,7 +526,7 @@
         "upload": false,
         "swaggerDoc": "",
         "x": 120,
-        "y": 360,
+        "y": 320,
         "wires": [
             [
                 "05734ddb19778f37",
@@ -544,7 +544,7 @@
         "server": "6d0c7de82f7adff3",
         "client": "",
         "x": 1410,
-        "y": 360,
+        "y": 320,
         "wires": []
     },
     {
@@ -561,7 +561,7 @@
         "finalize": "",
         "libs": [],
         "x": 390,
-        "y": 420,
+        "y": 380,
         "wires": [
             [
                 "ea01ec9f115c1e6e",
@@ -587,7 +587,7 @@
         "statusVal": "",
         "statusType": "auto",
         "x": 730,
-        "y": 400,
+        "y": 360,
         "wires": []
     },
     {
@@ -605,7 +605,7 @@
         "statusVal": "",
         "statusType": "auto",
         "x": 730,
-        "y": 440,
+        "y": 400,
         "wires": []
     },
     {
@@ -623,7 +623,7 @@
         "statusVal": "",
         "statusType": "auto",
         "x": 190,
-        "y": 440,
+        "y": 400,
         "wires": []
     },
     {
@@ -637,7 +637,7 @@
             "9985c63703612a1a"
         ],
         "x": 515,
-        "y": 400,
+        "y": 360,
         "wires": []
     },
     {
@@ -648,7 +648,7 @@
         "name": "CALL 777",
         "info": "",
         "x": 600,
-        "y": 400,
+        "y": 360,
         "wires": []
     },
     {
@@ -665,7 +665,7 @@
         "finalize": "",
         "libs": [],
         "x": 970,
-        "y": 260,
+        "y": 220,
         "wires": [
             [
                 "35a731ae394a09f2"
@@ -690,7 +690,7 @@
         "senderr": false,
         "headers": [],
         "x": 1240,
-        "y": 260,
+        "y": 220,
         "wires": [
             [
                 "216812d2c096025f"
@@ -712,7 +712,7 @@
         "statusVal": "",
         "statusType": "auto",
         "x": 1530,
-        "y": 260,
+        "y": 220,
         "wires": []
     }
 ]
