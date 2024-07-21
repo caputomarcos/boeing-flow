@@ -7,3 +7,9 @@
 [submodule "web-app"]
 	path = web-app
 	url = git@github.com:caputomarcos/boeing-webapp.git
+[submodule "flow"]
+	path = flow
+	url = git@github.com:caputomarcos/boeing-flow.git
+[submodule "flows"]
+	path = flows
+	url = git@github.com:caputomarcos/boeing-flows.git
